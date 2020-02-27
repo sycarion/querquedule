@@ -39,3 +39,15 @@ Roll two dice to place your teal at a starting point. One die represents the row
 
 ## Play
 
+ggg
+
+### Anatine Abilities
+
+**The Great and Terrible Quack** This will force a locust swarm to stack on an adjacent locust swarm to it (not necessarily adjacent to you).
+
+**Feast of Conscripts** This will summon ducks from other flocks to feast on an adjacent locust swarm.
+
+### Cyberteal Abilities
+
+**Bionic Speed** This will allow you to take a free move that won't count against the 40 move limit.
+
