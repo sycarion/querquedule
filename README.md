@@ -19,4 +19,4 @@ Pencil
 
 ## Object
 
-The object of the game is to clear the map of locusts with 40 moves or less.
+The object of the game is to clear the map of locusts with 40 moves or less. You have various anatine
