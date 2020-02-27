@@ -31,4 +31,7 @@ Roll the five dice again and repeat the instructions above. Stack a new token on
 
 **Placing your Teal:**
 
-Roll two dice to place your teal at a starting point. One die represents the row number, the other represents to column number. You may choose which w
+Roll two dice to place your teal at a starting point. One die represents the row number, the other represents to column number. You may order the dice as you like.
+
+*Example:* Rolling a 3 and a 5, you may place your teal in the third row on the fifth column or the fifth row in the third column.
+
