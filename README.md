@@ -23,6 +23,8 @@ The object of the game is to clear the map of locusts with 40 moves or less. You
 
 ## Setup
 
+**Creating your Teal:** You have two abilities, Querquedule and Tech. Roll 2d6 to determine your score for each one.
+
 **Placing the Locusts:** Roll five regular dice and place one die next to each row of the map. Place a disc token in the column that matches the number on the die for each row.
 
 (insert pic here)
@@ -34,4 +36,6 @@ Roll the five dice again and repeat the instructions above. Stack a new token on
 Roll two dice to place your teal at a starting point. One die represents the row number, the other represents to column number. You may order the dice as you like.
 
 *Example:* Rolling a 3 and a 5, you may place your teal in the third row on the fifth column or the fifth row in the third column.
+
+## Play
 
