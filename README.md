@@ -23,6 +23,12 @@ The object of the game is to clear the map of locusts with 40 moves or less. You
 
 ## Setup
 
-### Placing the Locusts on the Map
+**Placing the Locusts:** Roll five regular dice and place one die next to each row of the map. Place a disc token in the column that matches the number on the die for each row.
 
-Roll five regular dice,
+(insert pic here)
+
+Roll the five dice again and repeat the instructions above. Stack a new token on an existing one if necessary.
+
+**Placing your Teal:**
+
+Roll two dice to place your teal at a starting point. One die represents the row number, the other represents to column number. You may choose which w
