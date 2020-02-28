@@ -19,7 +19,7 @@ Pencil
 
 ## Object
 
-The object of the game is to clear the map of locusts with 40 moves or less. You have various anatine and cybertech abilities at your disposal to help you in your mission.
+The object of the game is to clear the map of locusts with 20 moves or less. You have various anatine and cybertech abilities at your disposal to help you in your mission.
 
 ## Setup
 
