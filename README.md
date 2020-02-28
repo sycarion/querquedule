@@ -25,11 +25,11 @@ The object of the game is to clear the map of locusts with 12 moves or less. You
 
 **Creating your Teal:** You have two abilities, Querquedule and Tech. Roll 2d6 to determine your score for each one.
 
-**Placing the Locusts:** Roll five regular dice and place one die next to each row of the map. No die can be next to another die. If four or more dice have the same value, reroll them all. Place a disc token in the column that matches the number on the die for each row.
+**Placing the Locusts:** Roll six regular dice and place one die next to each row of the map. No die can be next to another die. If four or more dice have the same value, reroll them all. Place a disc token in the column that matches the number on the die for each row.
 
 (insert pic here)
 
-Roll another five dice and place one next to each row of the map. Again, two dice with the same value cannot be next to each other. If a die would cause a locust token to be stacked on another, reroll that die. As long as the result is different from the previous roll, place the token in the column that matches the value of the rerolled die. This is true even if the roll results in a value that is same to another die above and/or below it.
+Re-roll the six dice and place one next to each row of the map. Again, two dice with the same value cannot be next to each other. If a die would cause a locust token to be stacked on another, reroll that die. As long as the result is different from the previous roll, place the token in the column that matches the value of the rerolled die. This is true even if the roll results in a value that is same to another die above and/or below it.
 
 **Placing your Teal:**
 
