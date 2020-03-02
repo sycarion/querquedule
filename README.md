@@ -5,7 +5,7 @@ Querquedule is a game about a teal sent to lead a squad of specially trained duc
 
 ## Acknowledgements
 
-The original idea came from a tweet by [@BlueBerryyRRH](https://twitter.com/BlueBerryyRRH/status/1232999970258722817). I didn't know that this was also a game I've always wanted to play, so I created it.
+The original idea came from a tweet by [@BlueBerryyRRH](https://twitter.com/BlueBerryyRRH/status/1232999970258722817). I didn't know that this was also a game that I've always wanted to play. Faced with this knowledge, I created it.
 
 Also thanks to the [phrontistery](http://phrontistery.info/) for helping me find the name of a species of teal that is the name of this game.
 
