@@ -43,13 +43,22 @@ On each turn you may perform one or more actions:
 
 ## Special Abilities
 
-### Anatine Abilities
+### Querquedule Abilities
 
-**The Great and Terrible Quack** This will force a locust swarm to stack on an adjacent locust swarm to it (not necessarily adjacent to you).
+#### The Great and Terrible Quack
 
-**Feast of Conscripts** This will summon ducks from other flocks to feast on an adjacent locust swarm.
+This will force all adjacent locust swarm to stack on an adjacent locust swarm.
 
-### Cyberteal Abilities
+#### Feast of the Conscripts
 
-**Bionic Speed** This will allow you to take a free move that won't count against the 40 move limit.
+Ducks from other flocks are summoned to feast on an adjacent locust swarm.
 
+### Cybertech abilities
+
+#### Bionic Speed
+
+You may take a free move without cost.
+
+#### Called Strike
+
+Clear locusts on any one square on the grid.
