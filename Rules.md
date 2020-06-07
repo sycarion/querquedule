@@ -25,7 +25,7 @@ The object of the game is to clear the map of locusts with 12 moves or less. You
 
 (insert pic here)
 
-Re-roll the six dice and place one next to each row of the map. Again, two dice with the same value cannot be next to each other. If a die would cause a locust token to be stacked on another, reroll that individual die. As long as the result is different from the previous roll, place the token in the column that matches the value of the rerolled die. This is true even if the roll results in a value that is same to another die above and/or below it.
+Re-roll the six dice and place one next to each row of the map. Again, two dice with the same value cannot be next to each other. If a die would cause a locust token to be stacked on another, re-roll that individual die. As long as the result is different from the previous roll, place the token in the column that matches the value of the rerolled die. This is true even if the roll results in a value that is same to another die above and/or below it.
 
 **Placing your Teal:**
 
