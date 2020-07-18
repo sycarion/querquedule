@@ -93,6 +93,6 @@ On each turn you may perform one or more actions:
 
 ### Example of Play
 
-Using the example setup, the player may use the Great and Terrible Quack special ability to stack the adjacent tokens on the third row, fourth column, move to occupy that space, and then clear that space of the three locust swarms.
+On the first turn, the player uses the **Great and Terrible Quack** special ability to stack the adjacent tokens on the third row, fourth column, move one space, and then clear that space of the three locust swarms.
 
 ![example_move](/home/sycarion/SparkleShare/github.com/querquedule/img/example_move.png)
