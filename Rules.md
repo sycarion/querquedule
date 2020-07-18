@@ -15,7 +15,7 @@ You are a cyberteal on a mission to clear a plague of locusts and prevent the ri
 
 ## Object
 
-The object of the game is to clear the map of locusts with 12 moves or less. You have various anatine and cybertech abilities at your disposal to help you in your mission.
+The object of the game is to clear the map of locusts with 12 moves or less. You have various anatine and cybertech special abilities at your disposal to help you in your mission.
 
 ## Setup
 
@@ -61,14 +61,6 @@ Roll two dice to place your teal at a starting point. One die represents the row
 
 ![teal_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/teal_placement.png)
 
-## Play
-
-On each turn you may perform one or more actions:
-
-- Move one space in any direction.
-- Clear the space you occupy of locusts.
-- Use a Special Ability
-
 ## Special Abilities
 
 ### Querquedule Abilities
@@ -90,3 +82,17 @@ You may take a free move without cost.
 #### Called Strike
 
 Clear locusts on any one square on the grid.
+
+## Play
+
+On each turn you may perform one or more actions:
+
+- Move one space in any direction.
+- Clear the space you occupy of locusts.
+- Use a Special Ability
+
+### Example of Play
+
+Using the example setup, the player may use the Great and Terrible Quack special ability to stack the adjacent tokens on the third row, fourth column, move to occupy that space, and then clear that space of the three locust swarms.
+
+![example_move](/home/sycarion/SparkleShare/github.com/querquedule/img/example_move.png)
