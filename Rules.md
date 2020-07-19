@@ -38,7 +38,7 @@ Seeing that one or more dice must be placed between the 1's. The player arranges
 
 The next roll of six dice produces this result:
 
-![second_roll](/home/sycarion/SparkleShare/github.com/querquedule/img/second_roll.png)
+![The second roll is a three, four, four, four, five, and five](/home/sycarion/SparkleShare/github.com/querquedule/img/second_roll.png)
 
 A four cannot be placed in the fourth row because the token would be placed on top of a token already placed on the board. The same is true for one of the rolled fives on the fifth row.
 
@@ -52,7 +52,7 @@ Roll two dice to place your teal at a starting point. One die represents the row
 
 *Example:* Rolling a 2 and a 4, you may place your teal in the second row on the fourth column or the fourth row in the second column. In this example, the player chooses Row 2, Column 4. (Shown in dark teal below)
 
-![teal_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/teal_placement.png)
+![The teal is places in row 2, column 4](/home/sycarion/SparkleShare/github.com/querquedule/img/teal_placement.png)
 
 ## Special Abilities
 
