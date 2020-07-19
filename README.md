@@ -1,6 +1,6 @@
 # Querquedule!
 Querquedule is a game about a teal sent to lead a squad of specially trained ducks to eliminate a plague of locusts. Implanted with cutting-edge technology and channeling the power of your alatine ancestors, you must eliminate the locusts without losing your soul.
-<img src="https://github.com/sycarion/864-System/blob/master/img/864_400w.jpg" />
+
 (Granted, if you lose your soul, you do end of taking over the planet and setting up the Querquedule Technocracy. If you do not destroy the locusts, you are set free to live out the remainder of your life in the wild as a truly awesome duck.)
 
 ## Acknowledgements
