@@ -30,7 +30,7 @@ Re-roll the six dice and place one next to each row of the map. Again, two dice 
 ### Locust Placement Example
 Rolling six dice provides these results:
 
-<img src="https://github.com/sycarion/querquedule/blob/master/img/example_roll.png" />
+![](/home/sycarion/SparkleShare/github.com/querquedule/img/example_roll.png)
 
 Seeing that one or more dice must be placed between the 1's. The player arranges their dice like this and places tokens accordingly:
 
