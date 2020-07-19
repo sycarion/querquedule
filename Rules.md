@@ -28,11 +28,11 @@ The object of the game is to clear the map of locusts with 15 moves or less. You
 Re-roll the six dice and place one next to each row of the map. Again, two dice with the same value cannot be next to each other. If a die would cause a locust token to be stacked on another, re-roll that individual die. As long as the result is different from the previous roll, place the token in the column that matches the value of the rerolled die. This is true even if the roll results in a value that is same to another die above and/or below it.
 
 ### Locust Placement Example
-
+<img src="https://github.com/sycarion/864-System/blob/master/img/864_400w.jpg" />
 Rolling six dice provides these results:
 
 ![example_roll](/home/sycarion/SparkleShare/github.com/querquedule/img/example_roll.png)
-
+<img src="https://github.com/sycarion/querquedule/blob/master/img/example_roll.png" />
 Seeing that one or more dice must be placed between the 1's. The player arranges their dice like this and places tokens accordingly:
 
 ![first_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/first_placement.png)
