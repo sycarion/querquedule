@@ -44,7 +44,7 @@ A four cannot be placed in the fourth row because the token would be placed on t
 
 Being careful to avoid placing a four next to another four or placing the fives next to each other, the player arranges their dice and places the tokens as follows. *The second placement is shown in blue for clarity*.
 
-![second_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/second_placement.png)
+<img src="https://github.com/sycarion/querquedule/blob/master/img/second_placement.png" />
 
 **Placing your Teal:**
 
@@ -52,7 +52,7 @@ Roll two dice to place your teal at a starting point. One die represents the row
 
 *Example:* Rolling a 2 and a 4, you may place your teal in the second row on the fourth column or the fourth row in the second column. In this example, the player chooses Row 2, Column 4. (Shown in dark teal below)
 
-![teal_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/teal_placement.png)
+<img src="https://github.com/sycarion/querquedule/blob/master/img/teal_placement.png" />
 
 ## Special Abilities
 
@@ -89,17 +89,16 @@ The cyberteal in this game has a Querquedule stat of 4 and a Cybertech stat of 5
 
 For the first action, the player attempts the **Great and Terrible Quack** special ability to stack the adjacent tokens on the third row. Since it is a Querquedule special ability, the players rolls both dice and adds four to the result of the roll. Rolling 5 and adding 4 equals 9, a success! The locust swarm tokens are stacked in the third row.
 
-![gatq](/home/sycarion/SparkleShare/github.com/querquedule/img/gatq.png)
+<img src="https://github.com/sycarion/querquedule/blob/master/img/qatq.png" />
 
 As another action, the cyberteal is moved to cover the stack of tokens in the third row. The player will place a tick mark in the Turns box. Remember that moving the cyberteal is the only action that costs a move.
 
+<img src="https://github.com/sycarion/querquedule/blob/master/img/move.png" />
 
-![move](/home/sycarion/SparkleShare/github.com/querquedule/img/move.png)
-
-![mark_turn](/home/sycarion/SparkleShare/github.com/querquedule/img/mark_turn.png)
+<img src="https://github.com/sycarion/querquedule/blob/master/img/mark_turn.png" />
 
 For the next action, the cyberteal clears the sqaure of locust swarms. The player removes the tokens and sets them aside.
 
 The Locust Map Grid now looks like this as the player considers their next action:
 
-![next_action](/home/sycarion/SparkleShare/github.com/querquedule/img/next_action.png)
+<img src="https://github.com/sycarion/querquedule/blob/master/img/next_action.png" />
