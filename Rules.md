@@ -15,7 +15,7 @@ You are a cyberteal on a mission to clear a plague of locusts and prevent the ri
 
 ## Object
 
-The object of the game is to clear the map of locusts with 12 moves or less. You have various anatine and cybertech special abilities at your disposal to help you in your mission.
+The object of the game is to clear the map of locusts with 15 moves or less. You have various anatine and cybertech special abilities at your disposal to help you in your mission.
 
 ## Setup
 
@@ -33,13 +33,7 @@ Rolling six dice provides these results:
 
 ![example_roll](/home/sycarion/SparkleShare/github.com/querquedule/img/example_roll.png)
 
-I cannot place the 1's like this:
-
-![bad_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/bad_placement.png)
-
-One or more dice must be placed between the 1's.
-
-The player arranges their dice like this and places tokens accordingly:
+Seeing that one or more dice must be placed between the 1's. The player arranges their dice like this and places tokens accordingly:
 
 ![first_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/first_placement.png)
 
@@ -49,7 +43,7 @@ The next roll of six dice produces this result:
 
 A four cannot be placed in the fourth row because the token would be placed on top of a token already placed on the board. The same is true for one of the rolled fives on the fifth row.
 
-Being careful to avoid placing the fours next to each or placing the fives next to each other, the player adds the token like this. (The second placement is shown in blue in this example.)
+Being careful to avoid placing a four next to another four or placing the fives next to each other, the player arranges their dice and places the tokens as follows. *The second placement is shown in blue for clarity*.
 
 ![second_placement](/home/sycarion/SparkleShare/github.com/querquedule/img/second_placement.png)
 
@@ -85,14 +79,28 @@ Clear locusts on any one square on the grid.
 
 ## Play
 
-On each turn you may perform one or more actions:
+- Moving your teal one space in any direction costs a turn
 
-- Move one space in any direction.
-- Clear the space you occupy of locusts.
-- Use a Special Ability
+- Clearing the space you occupy of locusts costs nothing.
+- Using a Special Ability costs one point of the *other* stat per attempt.
 
 ### Example of Play
 
-On the first turn, the player uses the **Great and Terrible Quack** special ability to stack the adjacent tokens on the third row, fourth column, move one space, and then clear that space of the three locust swarms.
+The cyberteal in this game has a Querquedule stat of 4 and a Cybertech stat of 5.
 
-![example_move](/home/sycarion/SparkleShare/github.com/querquedule/img/example_move.png)
+For the first action, the player attempts the **Great and Terrible Quack** special ability to stack the adjacent tokens on the third row. Since it is a Querquedule special ability, the players rolls both dice and adds four to the result of the roll. Rolling 5 and adding 4 equals 9, a success! The locust swarm tokens are stacked in the third row.
+
+![gatq](/home/sycarion/SparkleShare/github.com/querquedule/img/gatq.png)
+
+As another action, the cyberteal is moved to cover the stack of tokens in the third row. The player will place a tick mark in the Turns box. Remember that moving the cyberteal is the only action that costs a move.
+
+
+![move](/home/sycarion/SparkleShare/github.com/querquedule/img/move.png)
+
+![mark_turn](/home/sycarion/SparkleShare/github.com/querquedule/img/mark_turn.png)
+
+For the next action, the cyberteal clears the sqaure of locust swarms. The player removes the tokens and sets them aside.
+
+The Locust Map Grid now looks like this as the player considers their next action:
+
+![next_action](/home/sycarion/SparkleShare/github.com/querquedule/img/next_action.png)
